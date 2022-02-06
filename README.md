@@ -7,24 +7,21 @@
 <br>
 <br>
 My name is Shiven,  
+
 I love computer science.  
 I'm always striving to learn more.
 <br>- 🔭 I’m currently working on completing Harvard's CS50web
-<br>- 🌱 I’m currently studying data structures and algorithms
-<br>- 🔭 I’m also involved in competitive programming
+<br>- 🌱 I’m currently studying data structures and algorithmsSennIt
+<br>- 🔭 I also do competitive programming
+<br>- 🔭 I've completed my very first web app <a href = 'https://haveyouseenit.herokuapp.com'>SeenIt</a> using flask
 <br>- 📖 I'm forever greatful for completing harvard's CS50x 
-<br>- 🕸️ I've completed my very first [web app](https://haveyouseenit.herokuapp.com/) using flask
 <br>- 👬 I’d be happy to collaborate on a project written in C, C++, python and (html, css)  
 <br>- 📫 How to reach me
 
 - Email me : Shiven at shiven302@gmail.com 
 - send a chat at : [Instagram](https://www.instagram.com/nevish_302/) or [Discord](https://discordapp.com/users/537666175702794240) or [Linkedin](https://www.linkedin.com/in/shiven-upadhyay-9834bb100)
-
-
 <br>
 <br>
-
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nevish-302&show_icons=true&theme=gotham" alt="Nevish-302" />
 
