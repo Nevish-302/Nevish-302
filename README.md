@@ -8,14 +8,13 @@
 <br>
 My name is Shiven,  
 
-I love computer science.  
+I love developing.  
+Currently, i am a web develper with MERN stack
 I'm always striving to learn more.
-<br>- 🔭 I’m currently working on completing Harvard's CS50web
-<br>- 🌱 I’m currently studying data structures and algorithmsSennIt
+<br>- 🔭 I’m currently working on Software Development
+<br>- 🌱 I’m currently studying data structures and algorithms
 <br>- 🔭 I also do competitive programming
-<br>- 🔭 I've completed my very first web app <a href = 'https://haveyouseenit.herokuapp.com'>SeenIt</a> using flask
-<br>- 📖 I'm forever greatful for completing harvard's CS50x 
-<br>- 👬 I’d be happy to collaborate on a project written in C, C++, python and (html, css)  
+<br>- 👬 I’d be happy to collaborate on a project suited to my skills
 <br>- 📫 How to reach me
 
 - Email me : Shiven at shiven302@gmail.com 
