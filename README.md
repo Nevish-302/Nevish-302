@@ -35,12 +35,15 @@ I'm always striving to learn more.
 </p>
 <h3 align="left">
 My Stats:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nevish-302&show_icons=true&theme=gotham" alt="Nevish-302" />
-<img  src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="" />
+<p align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nevish-302&show_icons=true&theme=gotham" alt="Nevish-302" />
+<img align="center" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="" />
+</p>
 <br>
 <br>
 <br>
-<h3 align="left">
+<h3 align="center">
 
 Now Playing 🎧
 
